@@ -1,0 +1,1 @@
+Quero que a IA gere o passo-a-passo para analista de dados, com o objetivo de aprender a criar automações e agentes de IA. Considere o seguinte contexto: criação de automações e agentes fáceis e rápidas. O conteúdo deve ter formato de lista simples. Evite linguagem técnica em excesso.
