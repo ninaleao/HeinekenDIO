@@ -1,0 +1,1 @@
+Quero que a IA gere uma guia de vendas para varejistas, com o objetivo de aumentar as vendas de forma prática e simples. Considere o seguinte contexto: passo-a-passo de como subir as vendas com ferramentas e ideias para pessoas leigas. O conteúdo deve ter formato de uma lista. Evite linguagem técnica em excesso.
