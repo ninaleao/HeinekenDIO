@@ -1,0 +1,1 @@
+Quero que a IA gere uma guia de receitas fáceis para o público fitness, com o objetivo de seguir uma dieta de forma fácil e prática. Considere o seguinte contexto: receitas fáceis, práticas e com passo-a-passo para pessoas leigas. O conteúdo deve ter formato de um livro. Evite linguagem técnica em excesso.
